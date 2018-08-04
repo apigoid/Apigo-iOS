@@ -24,8 +24,8 @@ For more information about Apigo and its features, see [Apigo Website][apigo.id]
 
 ```swift
 Apigo.initialize(withServer: "APIGO_SERVER_URL",
-                         applicationId: "APIGO_APPLICATION_ID",
-                         clientKey: "APIGO_CLIENT_KEY")
+                applicationId: "APIGO_APPLICATION_ID",
+                clientKey: "APIGO_CLIENT_KEY")
 ```
 
 (Optional) You can add some custom setup :
